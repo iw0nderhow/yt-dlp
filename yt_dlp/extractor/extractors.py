@@ -380,6 +380,7 @@ from .dplay import (
     DiscoveryPlusItalyShowIE,
     DiscoveryPlusIndiaShowIE,
 )
+from .dradio import DradioShareIE
 from .dreisat import DreiSatIE
 from .drbonanza import DRBonanzaIE
 from .drtuber import DrTuberIE
